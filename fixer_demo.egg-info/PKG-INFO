@@ -1,13 +1,15 @@
 Metadata-Version: 2.4
 Name: fixer-demo
-Version: 0.1
+Version: 0.2
 Summary: Fixer service demo package
-Home-page: #
+Home-page: https://github.com/ali-reza-2531/fixer-demo
 Author: Alireza
 Author-email: alirezashams09@gamil.com
 License: MIT
+Requires: requests
 Dynamic: author
 Dynamic: author-email
 Dynamic: home-page
 Dynamic: license
+Dynamic: requires
 Dynamic: summary
